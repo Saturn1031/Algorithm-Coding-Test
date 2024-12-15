@@ -1,2 +1,10 @@
-# Algorithm-Coding-Test
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 
+# 백준 & 프로그래머스 문제 풀이 목록
+
+프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
+
+## 📚 백준
+### 🚀 Gold
+| 문제번호 | 링크 |
+| ----- | ----- |
+|11729. 하노이 탑 이동 순서|[링크](./%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C/%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C.py)|
